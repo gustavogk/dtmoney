@@ -57,7 +57,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/LeonneBrito/dt.money.git
+$ git clone https://github.com/gustavogk/dtmoney.git
 ```
 
 ```bash
@@ -83,7 +83,7 @@ Create a <a href="https://github.com/gustavogk/dtmoney/issues">new issue report<
 # :page_facing_up: License
 
 This project is under the [MIT license](./LICENSE).
-Made with 💖 by [Leonne Brito](https://www.linkedin.com/in/gustavo-gk/). 
+Made with 💖 by [Gustavo Assunção](https://www.linkedin.com/in/gustavo-gk/). 
 
 Thank you! 🌠
 
