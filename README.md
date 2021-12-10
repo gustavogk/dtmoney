@@ -15,6 +15,16 @@
   </a>
 </p>
 
+<p align="center">
+  💸  Projeto desenvolvido durante o Bootcamp Ignite da | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+</p>
+
+<div align="center">
+  <sub> Made with 💖 by
+    <a href="https://github.com/gustavogk"> Gustavo Assunção.
+  </sub>
+</div>
+
  ![Hnet-image](https://user-images.githubusercontent.com/48024915/145632602-c81bf9ce-c7d9-4628-9be1-e801a9ab314a.gif)
   
 
