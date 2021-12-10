@@ -22,11 +22,13 @@
 <div align="center">
   <sub> Made with 💖 by
     <a href="https://github.com/gustavogk"> Gustavo Assunção.
+    <h1></h1>
   </sub>
 </div>
   
-![Hnet-image](https://user-images.githubusercontent.com/48024915/145632602-c81bf9ce-c7d9-4628-9be1-e801a9ab314a.gif)
-  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48024915/145632602-c81bf9ce-c7d9-4628-9be1-e801a9ab314a.gif" alt="Demonstracao" />
+</div>
   
 # 📌 Contents
 
