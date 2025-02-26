@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="./.github/logo.svg" width="300"/> 
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48024915/145632602-c81bf9ce-c7d9-4628-9be1-e801a9ab314a.gif" alt="Demonstracao" />
+</div>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/gustavo-gk/">
@@ -15,6 +15,7 @@
   </a>
 </p>
 
+
 <p align="center">
   💸  Projeto desenvolvido durante o Bootcamp Ignite da | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
@@ -26,17 +27,15 @@
   </sub>
 </div>
   
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/48024915/145632602-c81bf9ce-c7d9-4628-9be1-e801a9ab314a.gif" alt="Demonstracao" />
-</div>
+
   
 # 📌 Contents
 
-* [Screenshots](#camera-screenshot) 
+* [Screenshots](#camera-screenshots)
 * [Technologies](#rocket-technologies) 
 * [How to Run](#computer-how-to-run)
 * [Issues](#bug-issues)
-* [Contributing](#sparkles-issues)
+* [Contributing](#sparkles-contributing)
 * [License](#page_facing_up-license)
   
 # :camera: Screenshots
